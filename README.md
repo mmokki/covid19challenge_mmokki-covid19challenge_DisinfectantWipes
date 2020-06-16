@@ -1,13 +1,13 @@
 # Hackathon Challenge: Do masks help against COVID-19?
-This is a group project for UC,Davis MSBA Hackathon Challenge. Team Disinfectant Wipes contains Jing Li, Boya Sun, Jiangfan Jin and Sute Li.
+This is a group project for UC,Davis MSBA Hackathon Challenge. Team Disinfectant Wipes includes Jing Li, Boya Sun, Jiangfan Jin and Sute Li.
 
 ### Goal
 Our project aims to quantify the effect of the awareness of wearing a mask in slowing the spread of COVID-19. 
 
 ### Data Source
-- Google trend data
-- Stay-at-home order data
-- Medical resources data
+- Google trend
+- Stay-at-home order
+- Medical resources
 
 ### Analysis and Result
 Our team combined all the data from different data source and selected the best-performing fixed effect model to identify the effect of the awareness of wearing masks against COVID-19.
