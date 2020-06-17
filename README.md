@@ -5,9 +5,10 @@ This is a group project for UC,Davis MSBA Hackathon Challenge. Team Disinfectant
 Our project aims to quantify the effect of the awareness of wearing a mask in slowing the spread of COVID-19. 
 
 ### Data Source
-- Google trend
-- Stay-at-home order
-- Medical resources
+- [Cases](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series)
+- [Google trend](https://trends.google.com/trends/explore?q=mask&geo=US)
+- [Stay-at-home order](https://github.com/khakieconomics/covid_data)
+- [Medical resources](https://covidtracking.com/api)
 
 ### Analysis and Result
 Our team combined all the data from different data source and selected the best-performing fixed effect model to identify the effect of the awareness of wearing masks against COVID-19.
