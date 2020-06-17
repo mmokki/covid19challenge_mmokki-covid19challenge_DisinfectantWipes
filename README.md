@@ -6,7 +6,7 @@ Our project aims to quantify the effect of the awareness of wearing a mask in sl
 
 ### Data Source
 - [Cases](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series)
-- [Google trend](https://trends.google.com/trends/explore?q=mask&geo=US)
+- ["mask" searching in Google trend](https://trends.google.com/trends/explore?q=mask&geo=US)
 - [Stay-at-home order](https://github.com/khakieconomics/covid_data)
 - [Medical resources](https://covidtracking.com/api)
 
